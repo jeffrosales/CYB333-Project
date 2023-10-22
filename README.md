@@ -1,6 +1,6 @@
 # CYB333-Project
 Objective:
-To develop a secure and user-friendly password manager tool that allows users to generate, save, retrieve, and assess the strength of passwords.
+To develop a simple secure and user-friendly password manager tool that allows users to generate, save, retrieve, and assess the strength of passwords.
 
 Features:
 
